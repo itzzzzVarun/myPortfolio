@@ -343,5 +343,10 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
     margin-top: -100px;
     margin-bottom: 40px;
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
 
 }
